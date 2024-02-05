@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>
+        My Resume
+    </title>
+</head>
+<body>
+   <h1> Abdullah Murtaza</h1>
+   <img src="./talha.png" height="100" width="150"/>
+  
+   <h2> Summary:</h2>
+   <p>
+    I am a 19 year old guy stepping into web development and trying to learn new things
+   </p>
+   <hr/>
+   <h2>Education:</h2>
+     <ul>
+          <li>O/A Levels</li>
+          <li>BS Computer Science</li>
+     </ul>
+     <hr/>
+     <h2>Work Experience:</h2>
+     <p> Still doing my degree, yet to have any work experience.</p>
+     <hr/>
+     <h2> Skills</h2>
+       <ul>
+            <li> Completed Data structures and Algorithm</li>
+            <li>Strong Grip on Object Oriented Programming</li>
+            <li>Console based application in c++ using OOP</li>
+            <li> Strong Communciation and Presentation skills</li>
+            <li>Html CSS</li>
+            <li>SEO</li>
+       </ul>
+       <hr/>
+    <h2> Achievments:</h2>
+    <ul>
+        <li>Completed remote internship at mindstorm game studios</li>
+        <li>Completed Digital marketing course</li>
+        <li>Tetris in assembly language</li>
+    </ul>
+    <hr/>
+    <h2> More About Me:</h2>
+        <h3><a href=./hobbies.html>What I do and like</a></h3>
+        <h3><a href=./contact.html>Contact Details</a></h3>
+    <footer>
+            <br/>
+        <Address>
+          Apki aesi ki tesi agr apne isay chori kia.All rights reserved
+        </Address>
+    </footer>
+ 
+
+
+   
+</body>
+</html>
